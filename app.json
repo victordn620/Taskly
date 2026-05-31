@@ -12,8 +12,6 @@
     "android": {
       "package": "com.taskly.app"
     },
-    "plugins": [
-      "expo-font"
-    ]
+    "plugins": []
   }
 }
